@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1009251873415",
+    "firebase_url": "https://greenhouse-2ee65-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenhouse-2ee65",
+    "storage_bucket": "greenhouse-2ee65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009251873415:android:05194d9be80b000e8c7e22",
+        "android_client_info": {
+          "package_name": "com.example.graph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhv4nCILVsFnOQZE20O7TWsd1Ysyp5Lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009251873415:android:70710d44957c0cf38c7e22",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhv4nCILVsFnOQZE20O7TWsd1Ysyp5Lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009251873415:android:ae421553aad26a308c7e22",
+        "android_client_info": {
+          "package_name": "com.projects.agrilembang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhv4nCILVsFnOQZE20O7TWsd1Ysyp5Lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
